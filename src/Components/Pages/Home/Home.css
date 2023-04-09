@@ -1,0 +1,10 @@
+
+.container-light{
+    background-color: white;
+    color: gray;
+    
+}
+.container-dark{
+    background-color: rgb(157, 180, 223);
+    color: white;
+}
